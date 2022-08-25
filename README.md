@@ -5,10 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Data Structures in C & basics of JAVA.
-- 🌱 I’m currently learning C, Java and algorithms.
-- 👯 I’m looking to collaborate on ethical hacking.
-- 🤔 I’m looking for help with Data science, Machine learning and Artificial intelligence.
+- 🔭 Proficient in C and Data Structures.
+- 🌱 Learning Java Full Stack Development.
+- 🤔 I’m looking for help with Data science and Python.
 - 💬 Ask me about The Alvasian life.
-- 📫 How to reach me: nischalmadikir10@gmail.com
-- ⚡ Fun fact: In India every 60 seconds.... a minute passes.
+- 📫 Reach me: nischalmadikir10@gmail.com
+
