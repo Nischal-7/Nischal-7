@@ -1,9 +1,7 @@
 ### Hi there, 👋 This is Nischal! Glad you are here!
 
 
-**Nischal-7/Nischal-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**Nischal-7/Nischal-7** is a ✨ 
 
 - 🔭 Proficient in C and Data Structures.
 - 🌱 Learning Java Full Stack Development.
