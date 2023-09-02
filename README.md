@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nischal-7&label=Profile%20views&color=0e75b6&style=flat" alt="nischal-7" /> </p>
 
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently exploring **Full stack Web Development**
 
 - 👨‍💻 All of my projects are available at [creating portfolio...](creating portfolio...)
 
